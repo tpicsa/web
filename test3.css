@@ -22,7 +22,7 @@
   font-weight: 100 900;
   font-stretch: 100%;
   font-display: swap;
-  font-size-adjust:105%;
+  size-adjust:105%;
   src: url(https://fonts.gstatic.com/s/notosansdevanagari/v30/TuG7UUFzXI5FBtUq5a8bjKYTZjtRU6Sgv3NaV_SNmI0b8QQCQmHN5TV_9qo.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF4, U+1CF7-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B0A;
 }
